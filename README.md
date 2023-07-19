@@ -1,14 +1,11 @@
 ## Bem-vindo(a) ao meu perfil! 
 
-<div style="display: inline_block"><br>
+  Aprendendo a escrever uns códigos no bootcamp da Laboratoria e na vida. Aqui embaixo tudinho que eu já domino pelo menos um pouco (ou muito). Com vontade de mais, sempre. 
+
+
   [![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=js,html,css,figma,github,git,jest)](https://skillicons.dev)
-</div>
- 
- <br>
- 
+
   ### Dá uma olhada nas minhas redes sociais :)
- 
-<div> 
 
   <a href="https://instagram.com/josirubin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
